@@ -1,0 +1,21 @@
+<html>
+<head>
+    <title>Host Page 2 for ParameterizedHelloWorld applet</title>
+    <script src="http://www.java.com/js/deployJava.js"></script>
+</head>
+<body>
+
+    <!-- Note, to run this HTML page, make sure the JAR file is in the same folder -->
+
+    <h1>Here's my Parameterized HelloWorld applet</h1>
+	<script> 
+		var attributes = { archive:'MyApplet.jar', 
+						   code:'demo.applets.ParameterizedHelloWorldApplet.class', 
+						   width:300, height:300 }; 
+		var parameters = { greeting1:'Hello', greeting2:'mate' }
+		deployJava.runApplet(attributes, parameters, '1.6'); 
+	</script>
+    <p>Do you like it?</p>
+	
+</body>
+</html>

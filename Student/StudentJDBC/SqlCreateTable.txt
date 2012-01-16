@@ -1,0 +1,6 @@
+String sql = "CREATE TABLE Books ( " +
+                "Isbn  INTEGER     NOT NULL, " +
+                "Title VARCHAR(50) NOT NULL, " +
+                "Price CURRENCY    NOT NULL, " +
+                "CONSTRAINT PK_Books PRIMARY KEY (Isbn) "    +
+             ")";

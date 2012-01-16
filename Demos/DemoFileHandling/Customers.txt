@@ -1,0 +1,4 @@
+1	John Smith	London	false
+2	Mary Evans	Exeter	true
+3	Bill White	Dundee	false
+4	Claire Fin	Dublin	true

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<books xmlns="http://www.tessella.com">
+  <book isbn="0-201-32563-2">
+    <title>UML Distilled</title>
+    <author>Martin Fowler</author>
+    <author>Kendall Scott</author>
+    <price>29.95</price>
+  </book>
+  <book isbn="0-471-16351-1">
+    <title>The Essential Client/Server Survival Guide</title>
+    <author>Robert Orfali</author>
+    <author>Dan Harkey</author>
+    <price>44.95</price>
+  </book>
+  <book isbn="0-201-88954-4">
+    <title>The C++ Programming Language</title>
+    <author>Bjarne Stroustrup</author>
+    <price>39.99</price>
+  </book>
+  <book isbn="1-861001-52-5">
+    <title>XML Applications</title>
+    <author>Frank Boumphrey</author>
+    <author>Olivia Direnzo</author>
+    <author>Jon Duckett</author>
+    <author>Joe Graf</author>
+    <author>Paul Houle</author>
+    <author>Dave Hollander</author>
+    <author>Trevor Jenkins</author>
+    <author>Peter Jones</author>
+    <author>Adrian Kingsley-Hughes</author>
+    <author>Kathy Kingsley-Hughes</author>
+    <author>Craig McQueen</author>
+    <author>Stephen Mohr</author>
+    <price>49.99</price>
+  </book>
+  <book isbn="0-14-027405-7">
+    <title>Rainbow Six</title>
+    <author>Tom Clancy</author>
+    <price>8.99</price>
+  </book>
+</books>
+
+

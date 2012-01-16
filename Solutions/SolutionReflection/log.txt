@@ -1,0 +1,44 @@
+Sat Jun 25 11:48:42 BST 2011 Returning balance 1700.00 for Laura's accountSat Jun 25 11:50:22 BST 2011 Depositing 1000.00 in Laura's account
+Sat Jun 25 11:50:22 BST 2011 Withdrawing 200.00 from Laura's account
+Sat Jun 25 11:50:22 BST 2011 Depositing 500.00 in Laura's account
+Sat Jun 25 11:50:22 BST 2011 Returning balance 1700.00 for Laura's account
+[Sat Jun 25 11:50:46 BST 2011] Depositing 1000.00 in Laura's account
+[Sat Jun 25 11:50:46 BST 2011] Withdrawing 200.00 from Laura's account
+[Sat Jun 25 11:50:46 BST 2011] Depositing 500.00 in Laura's account
+[Sat Jun 25 11:50:46 BST 2011] Returning balance 1700.00 for Laura's account
+[Sat Jun 25 11:52:22 BST 2011] Account: Laura, depositing 1000.00.
+[Sat Jun 25 11:52:22 BST 2011] Account: Laura, withdrawing 200.00.
+[Sat Jun 25 11:52:22 BST 2011] Account: Laura, depositing 500.00.
+[Sat Jun 25 11:52:22 BST 2011] Account: Laura, balance is 1700.00
+[Sat Jun 25 11:56:41 BST 2011] Account: Laura, depositing 1000.00.
+[Sat Jun 25 11:56:41 BST 2011] Account: Laura, withdrawing 200.00.
+[Sat Jun 25 11:56:41 BST 2011] Account: Laura, depositing 500.00.
+[Sat Jun 25 11:56:41 BST 2011] Account: Laura, balance is 1700.00
+[Sat Jun 25 11:58:28 BST 2011] Account: Laura, depositing 1000.00.
+[Sat Jun 25 11:58:28 BST 2011] Account: Laura, withdrawing 200.00.
+[Sat Jun 25 11:58:28 BST 2011] Account: Laura, depositing 500.00.
+[Sat Jun 25 11:58:28 BST 2011] Account: Laura, balance is 1700.00
+[Sat Jun 25 12:17:37 BST 2011] Account: Laura, depositing 1000.00.
+[Sat Jun 25 12:17:37 BST 2011] Account: Laura, withdrawing 200.00.
+[Sat Jun 25 12:17:37 BST 2011] Account: Laura, depositing 500.00.
+[Sat Jun 25 12:17:37 BST 2011] Account: Laura, balance is 1700.00
+[Sat Jun 25 12:38:05 BST 2011] Account: Laura, depositing 1000.00.
+[Sat Jun 25 12:38:05 BST 2011] Account: Laura, withdrawing 200.00.
+[Sat Jun 25 12:38:05 BST 2011] Account: Laura, depositing 500.00.
+[Sat Jun 25 12:38:05 BST 2011] Account: Laura, balance is 1700.00
+[Sat Jun 25 12:38:06 BST 2011] Account: Laura, depositing 1000.00.
+[Sat Jun 25 12:38:06 BST 2011] Account: Laura, withdrawing 200.00.
+[Sat Jun 25 12:38:06 BST 2011] Account: Laura, depositing 500.00.
+[Sat Jun 25 12:38:06 BST 2011] Account: Laura, balance is 1700.00
+[Sat Jun 25 12:38:08 BST 2011] Account: Laura, depositing 1000.00.
+[Sat Jun 25 12:38:08 BST 2011] Account: Laura, withdrawing 200.00.
+[Sat Jun 25 12:38:08 BST 2011] Account: Laura, depositing 500.00.
+[Sat Jun 25 12:38:08 BST 2011] Account: Laura, balance is 1700.00
+[Sat Jun 25 12:41:41 BST 2011] Account: Laura, depositing 1000.00.
+[Sat Jun 25 12:41:42 BST 2011] Account: Laura, withdrawing 200.00.
+[Sat Jun 25 12:41:42 BST 2011] Account: Laura, depositing 500.00.
+[Sat Jun 25 12:41:42 BST 2011] Account: Laura, balance is 1700.00
+[Sat Jun 25 12:41:58 BST 2011] Account: Laura, depositing 1000.00.
+[Sat Jun 25 12:41:58 BST 2011] Account: Laura, withdrawing 200.00.
+[Sat Jun 25 12:41:58 BST 2011] Account: Laura, depositing 500.00.
+[Sat Jun 25 12:41:58 BST 2011] Account: Laura, balance is 1700.00
